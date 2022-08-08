@@ -1,7 +1,9 @@
 ![Logo of the project](https://i.imgur.com/qI76VpD.png)
 
 # Expanded Avatar Hand Interactions
-EAHI stands for Expanded Avatar Hand Interactions. EA is a framework established by Faycal Kilali (Faycal#6941) with the goal of expanding the functionality of avatars within Virtual Reality software. *If you like this project, please star it/favorite it in GitHub, and rate it appropriately in Gumroad / other websites where relevant.*
+EAHI stands for Expanded Avatar Hand Interactions. EA is a framework established by Faycal Kilali (Faycal#6941) with the goal of expanding the functionality of avatars within Virtual Reality software. 
+
+*If you like this project, please star it/favorite it in GitHub, and rate it appropriately in Gumroad / other websites where relevant.*
 
 # Download
 | Source | Link | Status |
@@ -42,7 +44,9 @@ All contribution requests must satisfy the main license, therefore they must als
 
 ## Credits
 Faycal Kilali for founding the project, lead development, establishment of the EA framework, and the creation of the master EAHI prefab.
+
 hfcRed for the Haptic Headpats OSP.
+
 FrostyFowl for testing multiple iterations, support, and providing a viable HQ SFX.
 
 ## Links
