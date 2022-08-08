@@ -5,6 +5,15 @@ EAHI stands for Expanded Avatar Hand Interactions. EA is a framework established
 
 *If you like this project, please star it/favorite it in GitHub, and rate it appropriately in Gumroad / other websites where relevant.*
 
+## Features
+* More immersion! -- Other individuals' hands can now feel vibrations by touching your hands, adding to the immersion for hand interactions that involve hand touches, such as hand holding.
+* Ability to high five other individuals' avatars, face, torso. 
+* Ability to high five your very own avatars' hands, face, torso.
+* Highly customizable! -- Boasting toggles for every feature included, sound volume adjustment, and multiple custom sound effects and visual special effects for the hand interactions.
+* Easy to install! -- most integrations to avatars can be done in less than 10 minutes.
+* Made with passion! -- this project is intended to spread joy, immersion, and open up more options for those seeking additional virtual social interaction ice breakers.
+* Free of cost and open source under the license! -- not a single penny is needed to utilize this project, and its open for contributions as per the specifications laid down.
+
 # Download
 | Source | Link | Status |
 |---|---|---|
