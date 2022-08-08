@@ -60,8 +60,11 @@ FrostyFowl for testing multiple iterations, support, and providing a viable HQ S
 
 ## Links
 Faycal Kilali (also known as Faycal#6941 in VRC and Discord) at https://github.com/faycalki 
+
 hfcRed at https://github.com/hfcRed
+
 - Repositories of my other projects: https://github.com/faycalki/
+
   - In case of sensitive bugs like security vulnerabilities, please feel free to contact Faycal Kilali whenever, I value all efforts to improve the security of the project.
 
 ## Additional avenues
