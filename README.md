@@ -58,6 +58,8 @@ hfcRed for the Haptic Headpats OSP.
 
 FrostyFowl for testing multiple iterations, support, and providing a viable HQ SFX.
 
+Logo art by Tammillia Winters.
+
 ## Links
 Faycal Kilali (also known as Faycal#6941 in VRC and Discord) at https://github.com/faycalki 
 
