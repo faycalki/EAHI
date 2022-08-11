@@ -47,7 +47,7 @@ Here's a brief intro about what a developer must do in order to start developing
 git clone the repository for the latest source code, then using Unity 2019.4.31f1 and the latest VRCSDK, edit the unity package appropriately.
 
 ## Licensing
-This MIT license pertains only to the custom code and assets produced by Faycal Kilali. For licensure of the open source projects used in this software, refer to the corresponding licenses in the Resources folder.
+This MIT license pertains only to the custom code and assets produced by Faycal Kilali. For the licenses of the open source projects used in this software, refer to the corresponding licenses in the Resources folder.
 
 ## Contributing
 All contribution requests must satisfy the main license, therefore they must also satisfy the licenses of the open source projects utilized in this project.
