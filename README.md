@@ -32,6 +32,7 @@ Video guide on integrating this Prefab to your avatar: <a  href="https://www.you
 8. Using Avatar Manager 3.0+, if you have Write Defaults on in your FX layer then you should combine (WD ON) EAHI FX Layer in the prefab with the avatar's FX layer. Otherwise, combine (WD OFF) EAHI Fx Layer in the prefab with the avatar's FX Layer;
 9. Using Avatar Manager 3.0+, combine the EAHI Paramaters in the prefab with the avatar's parameters;
 10. Add the EAHI Submenu in the unity package to your avatar's menu.
+
 Optional step: fine tune the radius of the Haptic Receivers and the Primary Receivers to the radius you wish for them to receive feedback.
 
 ## Remarks
