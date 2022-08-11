@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: EAHI SFX Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: SFX Volume
+    icon: {fileID: 2800000, guid: 30891e000b76dfc4db977fc2238911a0, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: EAHISFXVolumea
+    labels: []
+  - name: Faycal#6941's SFX
+    icon: {fileID: 2800000, guid: 7943de274b5317f4883f3ed9aeb7868f, type: 3}
+    type: 102
+    parameter:
+      name: EAHISFXaPicker
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: '[Rogue]''s SFX'
+    icon: {fileID: 2800000, guid: 7943de274b5317f4883f3ed9aeb7868f, type: 3}
+    type: 102
+    parameter:
+      name: EAHISFXaPicker
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: '[Rogue]''s SFX'
+    icon: {fileID: 2800000, guid: 7943de274b5317f4883f3ed9aeb7868f, type: 3}
+    type: 102
+    parameter:
+      name: EAHISFXaPicker
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: FrostyFowl's SFX
+    icon: {fileID: 2800000, guid: 7943de274b5317f4883f3ed9aeb7868f, type: 3}
+    type: 102
+    parameter:
+      name: EAHISFXaPicker
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
