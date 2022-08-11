@@ -34,7 +34,7 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Faycal#6941's SFX
+  - name: '[Rogue]''s SFX'
     icon: {fileID: 2800000, guid: 7943de274b5317f4883f3ed9aeb7868f, type: 3}
     type: 102
     parameter:
@@ -44,7 +44,7 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Faycal#6941's SFX
+  - name: '[Rogue]''s SFX'
     icon: {fileID: 2800000, guid: 7943de274b5317f4883f3ed9aeb7868f, type: 3}
     type: 102
     parameter:

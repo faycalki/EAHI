@@ -33,7 +33,7 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: (Buggy) Collide with own hands, torso, face.
+  - name: Collide with own hands, torso, face.
     icon: {fileID: 2800000, guid: c0f8c7f97ffeda848b01edf162acd977, type: 3}
     type: 102
     parameter:

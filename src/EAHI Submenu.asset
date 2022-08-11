@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controls:
   - name: EAHI Hand Interaction
-    icon: {fileID: 2800000, guid: 41558b711a91eba4aa85e296823ed474, type: 3}
+    icon: {fileID: 2800000, guid: 83591d8320fe40a43b1eefc998e88db1, type: 3}
     type: 103
     parameter:
       name: 
@@ -24,7 +24,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: EAHI Hand Haptics
-    icon: {fileID: 2800000, guid: a78814d058ba06340b6a5e704aae4583, type: 3}
+    icon: {fileID: 2800000, guid: bfc621cc34d9b1743ab7daa1050435c0, type: 3}
     type: 103
     parameter:
       name: 

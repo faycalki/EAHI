@@ -40,7 +40,7 @@ MonoBehaviour:
   - name: EAHISFXaPicker
     valueType: 0
     saved: 1
-    defaultValue: 1
+    defaultValue: 4
   - name: EAHI Particle Toggle
     valueType: 2
     saved: 1
