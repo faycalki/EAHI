@@ -24,7 +24,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: EAHI Hand Haptics
-    icon: {fileID: 2800000, guid: bfc621cc34d9b1743ab7daa1050435c0, type: 3}
+    icon: {fileID: 2800000, guid: 83591d8320fe40a43b1eefc998e88db1, type: 3}
     type: 103
     parameter:
       name: 

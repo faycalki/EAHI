@@ -53,7 +53,7 @@ MonoBehaviour:
     subMenu: {fileID: 11400000, guid: 31b0953ab8b58384ba95782064a8ab53, type: 2}
     subParameters: []
     labels: []
-  - name: EAHI FX Menu
+  - name: EAHI VFX Menu
     icon: {fileID: 10910, guid: 0000000000000000f000000000000000, type: 0}
     type: 103
     parameter:
